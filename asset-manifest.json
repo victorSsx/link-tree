@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/link-tree/static/css/main.499d8e51.css",
-    "main.js": "/link-tree/static/js/main.a6468851.js",
+    "main.js": "/link-tree/static/js/main.47625329.js",
     "static/js/787.dcf7eaf7.chunk.js": "/link-tree/static/js/787.dcf7eaf7.chunk.js",
     "static/media/The Scientist com pássaros e trovões - Coldplay .mp3": "/link-tree/static/media/The Scientist com pássaros e trovões - Coldplay .003824833113e78135c1.mp3",
     "static/media/58yR.gif": "/link-tree/static/media/58yR.0008df7c89a507b47d57.gif",
     "static/media/IMG_20230707_223036_915.jpg": "/link-tree/static/media/IMG_20230707_223036_915.1db0fb4cccaa0804eaa2.jpg",
     "index.html": "/link-tree/index.html",
     "main.499d8e51.css.map": "/link-tree/static/css/main.499d8e51.css.map",
-    "main.a6468851.js.map": "/link-tree/static/js/main.a6468851.js.map",
+    "main.47625329.js.map": "/link-tree/static/js/main.47625329.js.map",
     "787.dcf7eaf7.chunk.js.map": "/link-tree/static/js/787.dcf7eaf7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.499d8e51.css",
-    "static/js/main.a6468851.js"
+    "static/js/main.47625329.js"
   ]
 }
