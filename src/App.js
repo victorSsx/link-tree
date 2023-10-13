@@ -26,6 +26,7 @@ function App() {
         <li className="b"><a href="https://victorssx.github.io/R-Digtal/">Relógio Digital</a></li>
         <li className="b"><a href="https://victorssx.github.io/Clima/">Climas</a></li>
         <li className="b"><a href="https://victorssx.github.io/projeto-Landing-page-pepsi-/">Landing-page pepsi</a></li>
+        <li className="b"><a href="https://victorssx.github.io/projeto_website/">Website GPT-3</a></li>
       </ul>
     </div>
     </div>
