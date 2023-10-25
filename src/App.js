@@ -1,4 +1,4 @@
-import react from "react";
+import React from "react";
 import './App.css';
 
 import musicSound from './sound/The Scientist com pássaros e trovões - Coldplay .mp3';
@@ -20,13 +20,13 @@ function App() {
            <h1>Meus Links</h1>
       <ul>
        <li className="b"><a href="https://victorssx.github.io/My_Page/">My_Page</a></li>
-        <li className="b"><a href="https://victorssx.github.io/One-Piece-X/">One Piece</a></li>
+        <li className="b"><a href="https://victorssx.github.io/one-piece/">One Piece</a></li>
         <li className="b"><a href="https://victorssx.github.io/Projeto-X/">X-Men</a></li>
-        <li className="b"><a href="https://victorssx.github.io/clone-netflix/">Netflix-Clone</a></li>
         <li className="b"><a href="https://victorssx.github.io/R-Digtal/">Relógio Digital</a></li>
         <li className="b"><a href="https://victorssx.github.io/Clima/">Climas</a></li>
         <li className="b"><a href="https://victorssx.github.io/projeto-Landing-page-pepsi-/">Landing-page pepsi</a></li>
         <li className="b"><a href="https://victorssx.github.io/projeto_website/">Website GPT-3</a></li>
+        <li className="b"><a href="https://victorssx.github.io/clone-netflix/">Netflix-Clone</a></li>
       </ul>
     </div>
     </div>
