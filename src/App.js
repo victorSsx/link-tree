@@ -21,7 +21,7 @@ function App() {
       <ul>
        <li className="b"><a href="https://victorssx.github.io/My_Page/">My_Page</a></li>
         <li className="b"><a href="https://victorssx.github.io/one-piece/">One Piece</a></li>
-        <li className="b"><a href="https://victorssx.github.io/Projeto-X/">X-Men</a></li>
+        <li className="b"><a href="https://victorssx.github.io/xmen/">X-Men</a></li>
         <li className="b"><a href="https://victorssx.github.io/R-Digtal/">Relógio Digital</a></li>
         <li className="b"><a href="https://victorssx.github.io/Clima/">Climas</a></li>
         <li className="b"><a href="https://victorssx.github.io/projeto-Landing-page-pepsi-/">Landing-page pepsi</a></li>
